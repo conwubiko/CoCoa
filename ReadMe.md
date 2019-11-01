@@ -1,4 +1,5 @@
 Descrtiption
+
 CoCoa – is an ontology-based knowledge graph of cyber incident for enhanced situational awareness of the monitored environment.
 
 Installation
